@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/daily-temps/static/css/main.45cfc9bd.chunk.css",
+    "main.js": "/daily-temps/static/js/main.ff7c675c.chunk.js",
+    "main.js.map": "/daily-temps/static/js/main.ff7c675c.chunk.js.map",
+    "runtime-main.js": "/daily-temps/static/js/runtime-main.14042725.js",
+    "runtime-main.js.map": "/daily-temps/static/js/runtime-main.14042725.js.map",
+    "static/js/2.e04bcb74.chunk.js": "/daily-temps/static/js/2.e04bcb74.chunk.js",
+    "static/js/2.e04bcb74.chunk.js.map": "/daily-temps/static/js/2.e04bcb74.chunk.js.map",
+    "index.html": "/daily-temps/index.html",
+    "precache-manifest.e485ade981207595d400d3f17f6a145d.js": "/daily-temps/precache-manifest.e485ade981207595d400d3f17f6a145d.js",
+    "service-worker.js": "/daily-temps/service-worker.js",
+    "static/css/main.45cfc9bd.chunk.css.map": "/daily-temps/static/css/main.45cfc9bd.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14042725.js",
+    "static/js/2.e04bcb74.chunk.js",
+    "static/css/main.45cfc9bd.chunk.css",
+    "static/js/main.ff7c675c.chunk.js"
+  ]
+}
