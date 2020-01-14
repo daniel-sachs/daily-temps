@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ca7098c845d46444cc824325960a3a6",
+    "revision": "cb74bd3a61690a5d5b3e1810a85ac276",
     "url": "/daily-temps/index.html"
   },
   {
-    "revision": "a9dcf0aed255bca8ecec",
+    "revision": "8602def9f8860baf922d",
     "url": "/daily-temps/static/css/main.45cfc9bd.chunk.css"
   },
   {
-    "revision": "6070d1ab2d2f3034f4b6",
-    "url": "/daily-temps/static/js/2.e04bcb74.chunk.js"
+    "revision": "6ca087760272ab22bb5a",
+    "url": "/daily-temps/static/js/2.aabd6e8c.chunk.js"
   },
   {
-    "revision": "a9dcf0aed255bca8ecec",
-    "url": "/daily-temps/static/js/main.ff7c675c.chunk.js"
+    "revision": "8602def9f8860baf922d",
+    "url": "/daily-temps/static/js/main.859fd0fe.chunk.js"
   },
   {
     "revision": "ea85a5aca5348b793d73",
