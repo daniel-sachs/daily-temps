@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb74bd3a61690a5d5b3e1810a85ac276",
+    "revision": "5b57cdc5e77df3feb9fe68fedfa5804d",
     "url": "/daily-temps/index.html"
   },
   {
-    "revision": "8602def9f8860baf922d",
+    "revision": "c346796575f2e4da29c2",
     "url": "/daily-temps/static/css/main.45cfc9bd.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/daily-temps/static/js/2.aabd6e8c.chunk.js"
   },
   {
-    "revision": "8602def9f8860baf922d",
-    "url": "/daily-temps/static/js/main.859fd0fe.chunk.js"
+    "revision": "c346796575f2e4da29c2",
+    "url": "/daily-temps/static/js/main.06e46861.chunk.js"
   },
   {
     "revision": "ea85a5aca5348b793d73",
